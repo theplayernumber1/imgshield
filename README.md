@@ -2,7 +2,7 @@
 
 ![ImgShield Demo](https://github.com/theamanstark/sensitive-image-shield/raw/main/.gitassets/demo.gif)
 
-### # Demo 👉 [click here](https://imgshield.amanstark.com). 
+### # Demo 👉 [click here](https://imgshield.pages.dev). 
 
 <br>
 
